@@ -1,0 +1,14 @@
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\InheritanceandOverriding\obj\Debug\net9.0\InheritanceandOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\InheritanceandOverriding\obj\Debug\net9.0\InheritanceandOverriding.AssemblyInfoInputs.cache
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\InheritanceandOverriding\obj\Debug\net9.0\InheritanceandOverriding.AssemblyInfo.cs
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\InheritanceandOverriding\obj\Debug\net9.0\InheritanceandOverriding.csproj.CoreCompileInputs.cache
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\InheritanceandOverriding\bin\Debug\net9.0\InheritanceandOverriding.exe
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\InheritanceandOverriding\bin\Debug\net9.0\InheritanceandOverriding.deps.json
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\InheritanceandOverriding\bin\Debug\net9.0\InheritanceandOverriding.runtimeconfig.json
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\InheritanceandOverriding\bin\Debug\net9.0\InheritanceandOverriding.dll
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\InheritanceandOverriding\bin\Debug\net9.0\InheritanceandOverriding.pdb
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\InheritanceandOverriding\obj\Debug\net9.0\InheritanceandOverriding.dll
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\InheritanceandOverriding\obj\Debug\net9.0\refint\InheritanceandOverriding.dll
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\InheritanceandOverriding\obj\Debug\net9.0\InheritanceandOverriding.pdb
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\InheritanceandOverriding\obj\Debug\net9.0\InheritanceandOverriding.genruntimeconfig.cache
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\InheritanceandOverriding\obj\Debug\net9.0\ref\InheritanceandOverriding.dll
