@@ -1,0 +1,15 @@
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\AbstractClassesandMethods\bin\Debug\net9.0\AbstractClassesandMethods.exe
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\AbstractClassesandMethods\bin\Debug\net9.0\AbstractClassesandMethods.deps.json
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\AbstractClassesandMethods\bin\Debug\net9.0\AbstractClassesandMethods.runtimeconfig.json
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\AbstractClassesandMethods\bin\Debug\net9.0\AbstractClassesandMethods.dll
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\AbstractClassesandMethods\bin\Debug\net9.0\AbstractClassesandMethods.pdb
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\AbstractClassesandMethods\obj\Debug\net9.0\AbstractClassesandMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\AbstractClassesandMethods\obj\Debug\net9.0\AbstractClassesandMethods.AssemblyInfoInputs.cache
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\AbstractClassesandMethods\obj\Debug\net9.0\AbstractClassesandMethods.AssemblyInfo.cs
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\AbstractClassesandMethods\obj\Debug\net9.0\AbstractClassesandMethods.csproj.CoreCompileInputs.cache
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\AbstractClassesandMethods\obj\Debug\net9.0\AbstractClassesandMethods.sourcelink.json
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\AbstractClassesandMethods\obj\Debug\net9.0\AbstractClassesandMethods.dll
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\AbstractClassesandMethods\obj\Debug\net9.0\refint\AbstractClassesandMethods.dll
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\AbstractClassesandMethods\obj\Debug\net9.0\AbstractClassesandMethods.pdb
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\AbstractClassesandMethods\obj\Debug\net9.0\AbstractClassesandMethods.genruntimeconfig.cache
+C:\Users\ADK\Desktop\-dcit318-assignment2-11014893\AbstractClassesandMethods\obj\Debug\net9.0\ref\AbstractClassesandMethods.dll
